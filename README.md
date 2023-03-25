@@ -1,2 +1,2 @@
-# RedacaoNotaMil
-Classificador de redações do formato ENEM.
+# AES for ENEM
+AES system developed to score ENEM essays.
